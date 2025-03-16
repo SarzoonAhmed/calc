@@ -1,1 +1,3 @@
-# calc
+# maven-project
+
+Simple Maven Project
